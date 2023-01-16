@@ -6,6 +6,7 @@ This project is a mini search engine written in java 11.
     $ git clone https://github.com/Dianevera/search-engine.git
                
 ### Second step: Open the project in an IDE of your choice.
+    Setup the jdk to 11 if necessary.
 
 ### Third step: Build and run the projet
-    After running the project, you will have to enter your request in the console
+    After running the project, you will have to enter your request in the console.
